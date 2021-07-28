@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/huzaifa215/NodeProjects/issues"
   },
-  "homepage": "https://github.com/huzaifa215/NodeProjects#readme"
+  "homepage": "https://github.com/huzaifa215/NodeProjects#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
 }
